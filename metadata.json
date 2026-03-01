@@ -1,9 +1,0 @@
-{
-  "name": "Royyan & Ubay JWS",
-  "description": "Digital signage profesional untuk jadwal shalat masjid dengan sinkronisasi real-time.",
-  "requestFramePermissions": [
-    "screen-wake-lock",
-    "wake-lock",
-    "geolocation"
-  ]
-}
